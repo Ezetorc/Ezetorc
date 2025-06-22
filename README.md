@@ -5,7 +5,7 @@ Soy un programador autodidacta de 15 años con gran interés en el desarrollo we
 
 ---
 
-### 🛠️ **Tecnologías que domino:**
+### 🛠️ **Tecnologías:**
 - **Lenguajes:** HTML, CSS, JavaScript, TypeScript
 - **Frameworks & Librerías:** ReactJS, Astro, TailwindCSS, Zustand, Wouter, Tanstack Query
 - **Backend:** NodeJS, Express, NestJS
