@@ -5,7 +5,7 @@
 # 👨‍💻 Soy Ezequias Torczuk
 
 - ⌨️ Programador autodidacta de 15 años. 
-- 💻 Desarrollador web especializado en FrontEnd.
+- 💻 Interesado en el desarrollo web full-stack
 
 <div><a href="mailto:ezetorc@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a></a></div>
 
