@@ -6,6 +6,7 @@
 
 - ⌨️ Programador autodidacta de 15 años. 
 - 💻 Interesado en el desarrollo web full-stack
+- 🇦🇷 Soy de Argentina
 
 <div><a href="mailto:ezetorc@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a></a></div>
 
