@@ -4,7 +4,7 @@
 
 # 👨‍💻 Soy Ezequias Torczuk
 
-- ⌨️ Programador autodidacta de 15 años. 
+- ⌨️ Programador autodidacta. 
 - 💻 Interesado en el desarrollo web full-stack
 - 🇦🇷 Soy de Argentina
 
